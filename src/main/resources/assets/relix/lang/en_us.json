@@ -1,5 +1,8 @@
 {
   "itemGroup.relix.general" : "Relix Mod",
-  "item.relix.water_sword": "Sword of Oceanus"
+  "item.relix.water_sword": "Oceanus' Sword",
+  "item.relix.wind_bow": "Zephyros' Bow",
+  "item.relix.earth_hammer": "Gaia's Hammer",
+  "item.relix.fire_dagger": "Helios' Dagger"
 
 }
